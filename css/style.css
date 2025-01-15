@@ -1,0 +1,19 @@
+
+
+.box{
+	width: 150px;
+	height: 150px;
+}
+.aqua{
+	background-color: aqua;
+}
+.teal{
+	text-align: center;
+	margin: 20px 50px 30px 40px;
+	padding: 30px 20px 10px 40px;
+	background-color: teal;
+}
+.maroon{
+	margin: 60px;
+	background-color: maroon;
+}
